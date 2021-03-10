@@ -85,6 +85,8 @@
 
 ### RabbitMQ
 
++ <a href="https://github.com/Ivan-blade/ProjectDemo/tree/master/rabbitMQ">solution</a>
+
 ### 分布式拉勾前后端
 
 + 后端
