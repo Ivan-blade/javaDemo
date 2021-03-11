@@ -64,35 +64,9 @@
 
 ### 未完成项目
 
-+ 拉勾教育ssm后端
-  + 多模块架构
-    + ssm-dao
-    + Ssm-domain
-    + ssm-service
-    + ssm-util
-    + ssm-web
-  + 功能分布
-    + 课程管理
-    + 用户管理
-    + 权限管理
-    + 广告管理
-  + <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage6-Module4/">solution</a>
-
-### 拉勾教育ssm前端
-
-+ vue前端
-+ <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage6-Module5/">solution</a>
-
 ### RabbitMQ
 
 + <a href="https://github.com/Ivan-blade/ProjectDemo/tree/master/rabbitMQ">solution</a>
-
-### 分布式拉勾前后端
-
-+ 后端
-  + <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage8-Module1/">solution</a>
-+ 前端
-  + <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage8-Module2/">solution</a>
 
 ### Elasticseach+kafka+docker
 
@@ -101,6 +75,6 @@
 
 ### 拉勾微服务前后端分离
 
-+ 如题
++ springboot+springcloud+redis(数据库缓存做流量削峰)+mybatis-plus
 + <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage9-Module2/">solution</a>
 

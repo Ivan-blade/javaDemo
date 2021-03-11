@@ -3,6 +3,7 @@
 ### 简述
 
 + 项目大小（complete > part > demo）
++ practice里面是一些小练习和未全部完成的项目
 
 ### Demo-JDBC简单使用
 
@@ -118,7 +119,7 @@
 
 ### complete-dubbo+zookeeper+mysql+spring+springMVC+mybatis
 
-+ 使用如上技术栈完成crud（别问为什么全是crud）
++ 使用如上技术栈完成简单crud（别问为什么全是crud）
 + 业务结构
   + dao
     + 编写sql
@@ -130,7 +131,21 @@
     + 实现service接口
   + web
     + 编写接口调用service方法
-  + zookeeper部署在虚拟机中
+
+### complete-分布式课程平台前后端（上面的拓展）
++ 技术栈
+  + dubbo+zookeeper+mysql+spring+springMVC+mybatis+fastfds）
+
++ 架构
+  + web（springmvc）
+  + service
+  + dao
+  + controller
+  
++ 后端（crud+微信登录）
+  + <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage8-Module1/">solution</a>
++ 前端（非本人写）
+  + <a href="https://gitee.com/ivanblade/lagou-homework/tree/Stage8-Module2/">solution</a>
 
 ### part-fastdfs分布式文件系统使用
 
