@@ -4,6 +4,7 @@
 
 + 项目大小（complete > part > demo）
 + practice里面是一些小练习和未全部完成的项目
++ xmind文件里是学习中总结的一些知识点
 
 ### Demo-JDBC简单使用
 
